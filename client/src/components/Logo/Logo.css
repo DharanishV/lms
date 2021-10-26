@@ -1,0 +1,20 @@
+nav.navbar.navbar-default {
+  margin-bottom: 0;
+}
+.logoLink{
+  background: url("https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/LMS.svg/1280px-LMS.svg.png") no-repeat 0 0;
+  width:148px;
+  height: 52px;
+  display: block;
+  margin: 10px;
+  background-size: 144px;
+  border: none;
+}
+
+.logoLink.navLink,
+.logoLink.navLink:hover{
+  border: none;
+}
+.logoLink h1{
+  display: none;
+}
