@@ -4,6 +4,7 @@
   "private": true,
   "proxy": "http://localhost:3001/",
   "dependencies": {
+    "node":"14.18.1",
     "axios": "^0.24.0",
     "body-parser": "^1.19.0",
     "cohort": "^0.9.6",
